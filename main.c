@@ -388,7 +388,7 @@ int main(int argc, char **argv) {
     GtkApplication *app;
     int status;
 
-    read_file("../sudoku4.txt");
+    read_file("../sudoku_escargot.txt");
 
     FPS = n*n2;
 
